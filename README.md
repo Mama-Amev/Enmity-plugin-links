@@ -28,3 +28,5 @@ https://fifithebulldog.github.io/enmity-addons-store/plugins/Freemoji.js
 https://fifithebulldog.github.io/enmity-addons-store/plugins/NoReplyMention.js
 
 https://raw.githubusercontent.com/spinfal/enmity-plugins/master/dist/BetterTwitterEmbeds.js
+
+https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/GlobalBadges.js
